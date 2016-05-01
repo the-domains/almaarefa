@@ -1,4 +1,4 @@
-name: almaarefa
+name: "Al Ma'arefa"
 favicon: null
 layout_spectrum: 0.7204276323318481
 typography_spectrum: 0.09212591033428907
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.07329509756527841
+  brandStrength: 0.0625
   lightness: 0.40734625910408795
   saturation: 0.24089419655501842
-  rhythmicContrast: 0.36783436918631196
+  rhythmicContrast: 0.25
 purpose: []
