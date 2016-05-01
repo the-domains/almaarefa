@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[On the grid...]]></title>
         <description><![CDATA[On the grid...]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/almaarefa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 17:02:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 17:05:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/almaarefa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ca619d8-2ba8-48f4-87ed-97f5be65495c.jpg">]]></description>
+            <link>https://thegrid.ai/almaarefa/b9414553-ff03-4013-8c9d-0ed6db654e88/index.html</link>
+            <guid isPermaLink="false">b9414553-ff03-4013-8c9d-0ed6db654e88</guid>
+            <pubDate>Sun, 01 May 2016 17:04:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Wow... this Grid looks pretty nifty....</p>]]></description>
-            <link>undefinedwow-this-grid-looks-pretty-nifty/index.html</link>
+            <link>https://thegrid.ai/almaarefa/wow-this-grid-looks-pretty-nifty/index.html</link>
             <guid isPermaLink="false">46d52ac3-a53d-43fb-8e07-3340553c254c</guid>
             <pubDate>Sun, 01 May 2016 17:02:18 GMT</pubDate>
         </item>
